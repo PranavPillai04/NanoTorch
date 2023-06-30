@@ -1,6 +1,6 @@
 # NanoTorch
 
-An intuitive modular deep learning library that builds on some fundamental features from popular open-source libraries, like PyTorch and Tensorflow. Inspired by Andrej Karpathy's [nanoGPT](https://github.com/karpathy/nanoGPT).
+An intuitive modular deep learning library that builds on some fundamental features from popular open-source libraries, like PyTorch and Tensorflow. Inspired by Andrej Karpathy's [micrograd](https://github.com/karpathy/micrograd).
 
 ## Features
 
@@ -16,7 +16,7 @@ An intuitive modular deep learning library that builds on some fundamental featu
 
 ## SmartGrad
 
-NanoTorch contains its own small autograd (reverse-mode automatic differentiation) engine with fundamental functionalities. Inspired by Andrej Karpathy's [micrograd](https://github.com/karpathy/micrograd).
+NanoTorch contains its own small autograd (reverse-mode automatic differentiation) engine with fundamental functionalities.
 
 ### Features
 
